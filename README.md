@@ -37,3 +37,7 @@
 3 - Пример с запуском несуществующих файлов
 <img width="854" height="127" alt="image" src="https://github.com/user-attachments/assets/58f6d640-dac8-402e-8bd9-b2619a4e1ef5" />
 
+4 - Пример с запуском неизвестного типа отчёта
+<img width="1001" height="62" alt="image" src="https://github.com/user-attachments/assets/ea6e0e93-b7bf-4fa1-a285-b8c37176ec13" />
+
+
