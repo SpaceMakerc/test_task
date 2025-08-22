@@ -56,7 +56,7 @@ class HandlerLogsFile:
         log_data = self.parse_log_data(self.path)
 
         pre_result = dict()
-        table_data = [('', 'handler', 'total', 'avg_response_time')]
+        table_data = [("", "handler", "total", "avg_response_time")]
 
         for row in log_data:
             try:
@@ -90,7 +90,7 @@ class HandlerLogsFile:
         """
         report_handler = self.report_handlers.get(report_type, None)
         if report_handler is None:
-            raise ValueError(f"Unknown type of report - {report_type}")
+            return f"Unknown type of report - {report_type}"
         data_to_show = report_handler()
         return tabulate.tabulate(tabular_data=data_to_show, headers="firstrow")
 

@@ -142,9 +142,9 @@ def test_show_report(create_handler, capsys):
     ]
 
     # Проверяем неизвестный тип отчёта
-    with pytest.raises(ValueError):
-        result = handler.show_report(handler.report_type)
-        assert result is None
+    result = handler.show_report(handler.report_type)
+    assert type(result) is str
+    assert result == f"Unknown type of report - {handler.report_type}"
 
     # Результат корректного отчета с типом average и его заголовками
     with patch.object(handler, "report_type", "average"):
