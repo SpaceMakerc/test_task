@@ -9,3 +9,6 @@ venv/
 /venv/
 # IDE
 /.idea/
+
+# INI
+/pytest.ini
