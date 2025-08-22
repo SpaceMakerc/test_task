@@ -15,16 +15,16 @@
 Примеры запуска скрипта:
 
 1 - Два файла, без указания даты
-![two_files](https://github.com/user-attachments/assets/a940e246-2627-4b05-8232-c3427326bb4c)
+<img width="1105" height="190" alt="image" src="https://github.com/user-attachments/assets/9f74d933-5b25-4bf4-9670-77f03f29a841" />
 
 2 - Один файл без указания даты
-![one_file](https://github.com/user-attachments/assets/6044d18c-63ea-460f-9329-c594b49cbc14)
+<img width="927" height="180" alt="image" src="https://github.com/user-attachments/assets/d1220fec-1243-40b8-b7e0-a1babbcaae7d" />
 
 3 - Один файл с указанием даты
-![one_file_with_date](https://github.com/user-attachments/assets/76fe86d2-84a1-4ba6-9094-001fffd8a3dd)
+<img width="1057" height="186" alt="image" src="https://github.com/user-attachments/assets/f4449b89-7454-4a57-b41a-607b19a377e1" />
 
 4 - Два файла с указанием даты
-![two_files_with_date](https://github.com/user-attachments/assets/09b06173-1040-46da-ae81-098e490bd27a)
+<img width="1124" height="189" alt="image" src="https://github.com/user-attachments/assets/022adb35-aae2-47a7-bc5b-2cbb6fc6d5d1" />
 
 Покрытие тестами:
 
@@ -34,5 +34,6 @@
 2 - Все тесты
 <img width="1210" height="200" alt="image" src="https://github.com/user-attachments/assets/32126eb9-1b8e-43ad-82c2-36a594a20d30" />
 
-
+3 - Пример с запуском несуществующих файлов
+<img width="854" height="127" alt="image" src="https://github.com/user-attachments/assets/58f6d640-dac8-402e-8bd9-b2619a4e1ef5" />
 
