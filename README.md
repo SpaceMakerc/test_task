@@ -9,6 +9,8 @@
 - Принимает путь к файлу, файлов может быть несколько
 - Принимает название отчета
 - Вывод отчёта в виде таблицы в консоль
+
+Запуск скрипта python main.py --file files_to_handle --report types_of_report --date optional_fiel_for_filtering_data
   
 Примеры запуска скрипта:
 
